@@ -1,0 +1,1 @@
+const BASE_API_URL = "https://sbishnu019.github.io/movie-mania";
